@@ -2,7 +2,7 @@
 
 ## Main Page
 
-Navigate to public/index.html for the full html code
+Navigate to public/index.html for the full html code.  
 You can find the CSS in public/aseets/my_styles.css
 
 Usage instructions: 
